@@ -1,0 +1,8 @@
+{
+  "name": "Nyaa",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "Search torrents from Nyaa.si",
+  "url": "https://nyaa.si",
+  "script": "nyaa.js"
+}
